@@ -1,5 +1,3 @@
-
-```markdown
 # Book Directory Project
 
 This project is a Book Directory application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It serves as a comprehensive platform allowing users to manage their book collection effortlessly.
@@ -35,7 +33,7 @@ This project is a Book Directory application developed using the MERN stack (Mon
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/book-directory.git
+   git clone https://github.com/kanhaiya9309/Book-Directory-.com
    ```
 
 2. **Install dependencies:**
@@ -72,7 +70,7 @@ This project is a Book Directory application developed using the MERN stack (Mon
 
 ## Live Demo
 
-Visit [Book Directory Demo][(https://github.com/kanhaiya9309/Book-Directory-.com) to see the application in action.
+Visit [Book Directory Demo][(https://github.com/kanhaiya9309/Book-Directory-.com)] to see the application in action.
 
 Feel free to explore, contribute, and enhance this Book Directory project! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
 ```
