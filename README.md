@@ -70,7 +70,8 @@ This project is a Book Directory application developed using the MERN stack (Mon
 
 ## Live Demo
 
-Visit [Book Directory Demo][(https://github.com/kanhaiya9309/Book-Directory-.com)] to see the application in action.
+Visit [Book Directory Demo](https://github.com/kanhaiya9309/Book-Directory-.com) to see the application in action.
+
 
 Feel free to explore, contribute, and enhance this Book Directory project! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
 ```
